@@ -1,0 +1,20 @@
+{
+  {
+    "id":"1",
+    "slowo":"dom",
+    "odp":"house"
+   
+  },  
+  {
+    "id":"2",
+    "slowo":"kot",
+    "odp":"cat"
+   
+  },  
+  {
+    "id":"3",
+    "slowo":"pies",
+    "odp":"dog"
+   
+  },  
+}

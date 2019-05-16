@@ -1,0 +1,28 @@
+ [
+
+   {
+     "pytanie": "toast:",
+     "o1": "siup",
+     "o2": "za sesje",
+     "o3": "zdrówko",
+     "odp": "siup"
+   },
+
+   {
+     "pytanie": "pijus",
+     "o1": "Matrix",
+     "o2": "Ciumciała",
+     "o3": "Masza",
+     "odp": "Ciumciała"
+   },
+
+   {
+     "pytanie": "najlepsze jedzonko w mcDonaldzie?",
+     "o1": "Wieśmak",
+     "o2": "Frytki",
+     "o3": "Nuggetsy",
+     "odp": "Nuggetsy"
+   }
+
+
+  ]
